@@ -34,50 +34,50 @@ const app = {
         {
             name: 'Điều anh biết',
             singer: 'Chi Dân',
-            path: '../assets/music/DieuAnhBiet.mp3',
-            image: '../assets/img/Dieuanhbiet.jpg'
+            path: './assets/music/DieuAnhBiet.mp3',
+            image: './assets/img/Dieuanhbiet.jpg'
         },
         {
             name: 'Đưa em về nhà',
             singer: 'Grey D, Chillies',
-            path: '../assets/music/DuaEmVeNhaa.mp3',
-            image: '../assets/img/Duaemvenha.jpg'
+            path: './assets/music/DuaEmVeNhaa.mp3',
+            image: './assets/img/Duaemvenha.jpg'
         },
         {
             name: 'Gió',
             singer: 'Jank',
-            path: '../assets/music/Gio.mp3',
-            image: '../assets/img/Gio.jpg'
+            path: './assets/music/Gio.mp3',
+            image: './assets/img/Gio.jpg'
         },
         {
             name: 'Làm vợ anh nhé',
             singer: 'Chi Dân',
-            path: '../assets/music/LamVoAnhNhe.mp3',
-            image: '../assets/img/Lamvoanhnhe.jpg'
+            path: './assets/music/LamVoAnhNhe.mp3',
+            image: './assets/img/Lamvoanhnhe.jpg'
         },
         {
             name: 'Mãi mãi bên nhau',
             singer: 'Noo Phuoc Thinh',
-            path: '../assets/music/MaiMaiBenNhau.mp3',
-            image: '../assets/img/MMbennhau.jpg'
+            path: './assets/music/MaiMaiBenNhau.mp3',
+            image: './assets/img/MMbennhau.jpg'
         },
         {
             name: 'Ngày đầu tiên',
             singer: 'Đức Phúc',
-            path: '../assets/music/NgayDauTien.mp3',
-            image: '../assets/img/Ngaydautien.jpg'
+            path: './assets/music/NgayDauTien.mp3',
+            image: './assets/img/Ngaydautien.jpg'
         },
         {
             name: 'Như những phút ban đầu',
             singer: 'Hoài Lâm',
-            path: '../assets/music/PhutBanDau.mp3',
-            image: '../assets/img/Phutbandau.jpg'
+            path: './assets/music/PhutBanDau.mp3',
+            image: './assets/img/Phutbandau.jpg'
         },
         {
             name: 'Ta Còn yêu nhau',
             singer: 'Đức Phúc',
-            path: '../assets/music/TaConYeuNhau.mp3',
-            image: '../assets/img/Taconyeunhau.jpg'
+            path: './assets/music/TaConYeuNhau.mp3',
+            image: './assets/img/Taconyeunhau.jpg'
         },
     ],
     setConfig: function(key, value) {
