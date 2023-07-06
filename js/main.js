@@ -28,8 +28,8 @@ const app = {
         {
             name: 'Cause i love you',
             singer: 'Noo Phước Thịnh',
-            path: '../assets/music/CauseILoveYou.mp3',
-            image: '../assets/img/NooPhuocThinh.jpg'
+            path: './assets/music/CauseILoveYou.mp3',
+            image: './assets/img/NooPhuocThinh.jpg'
         },
         {
             name: 'Điều anh biết',
